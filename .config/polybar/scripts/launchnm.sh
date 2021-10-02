@@ -1,5 +1,5 @@
 #!/bin/bash
 
-alacritty -e nmtui &
+kitty -e nmtui &
 sleep 1
 #bspc node -t floating
